@@ -29,6 +29,8 @@
  - Using a fake server to store data
  - Using hooks to update components on the screen
  - Automated tests with jest
+ - AsyncStorage
+ - ContextApi
  
 ## Results 🤞
 <h1 align="center">
