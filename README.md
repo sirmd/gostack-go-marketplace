@@ -30,6 +30,11 @@
  - Using hooks to update components on the screen
  - Automated tests with jest
  
+## Results 🤞
+<h1 align="center">
+  <img width="500" src=".github/tests1.png"/>
+  <img width="500" src=".github/tests.png"/>
+</h1>
 
 ## Credits 👏
   - <a target="_blank" href="https://rocketseat.com.br">Rocketseat</a>
