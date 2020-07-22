@@ -34,10 +34,12 @@ export const ProductImage = styled.Image`
 export const ProductTitleContainer = styled.View`
   font-size: 16px;
   margin-left: 5px;
+  flex: 1;
 `;
 
 export const ProductTitle = styled.Text`
   font-size: 16px;
+  flex-wrap: wrap;
 `;
 
 export const ProductPriceContainer = styled.View`
@@ -60,7 +62,7 @@ export const ProductPrice = styled.Text`
   margin-top: 5px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: #00529a;
 `;
 
 export const ProductQuantity = styled.Text`
@@ -69,7 +71,7 @@ export const ProductQuantity = styled.Text`
   margin-right: 10px;
 
   font-size: 16px;
-  color: #e83f5b;
+  color: #00529a;
 `;
 
 export const ActionContainer = styled.View`
@@ -92,7 +94,7 @@ export const TotalProductsContainer = styled.View`
   bottom: 0px;
 
   flex-direction: row;
-  background: #e83f5b;
+  background: #00529a;
 
   padding: 20px 40px;
   justify-content: space-between;

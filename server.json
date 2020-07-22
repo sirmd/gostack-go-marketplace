@@ -2,26 +2,26 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Chaira Tramontina em Aço Carbono Cromado e Cabo Castanho Polywood",
+      "image_url": "https://assets.tramontina.com.br/upload/tramon/imagens/CUT/21193198PNM001G.png",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Faca Tramontina para Carne 8\" em Aço Inox e Cabo Vermelho Polywood com Bainha de Couro",
+      "image_url": "https://assets.tramontina.com.br/upload/tramon/imagens/CUT/21141178PNM001G.png",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Faca Tramontina para Carne 10\" em Aço Inox e Cabo Vermelho Polywood",
+      "image_url": "https://assets.tramontina.com.br/upload/tramon/imagens/CUT/21199722PNM001G.png",
       "price": 70
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Panela de Pressão Tramontina Solar em Aço Inox Fundo Triplo com 5 Dispositivos de Segurança 22 cm 6 L",
+      "image_url": "https://assets.tramontina.com.br/upload/tramon/imagens/FAR/62516223PNM001G.png",
       "price": 80
     }
   ]
