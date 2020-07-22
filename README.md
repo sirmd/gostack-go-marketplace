@@ -20,7 +20,8 @@
 
 ## Demonstration 📱
 <p align="center">
-  <img width="250" src=".github/gif.gif"/>
+  <img width="250" src=".github/print_1.png"/>
+  <img width="250" src=".github/print_2.png"/>
 </p>
 
 ## Knowledges 🚀
